@@ -109,3 +109,7 @@ Sentiment Analysis/aclImdb/
 
 # training data
 data/
+# web app data
+cache/*
+!cache/sentiment_analysis
+!cache/sentiment_analysis/*
